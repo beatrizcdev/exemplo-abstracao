@@ -44,4 +44,4 @@ E métodos: *Marcar como lida, Gerenciar permissões de notificação.*
 Com atributos sendo: *Conteúdo Recomendado;*
 E métodos: *Gerar recomendações, Visualizar recomendações.*
 
-# Tendo em vista tudo isso, o código no arquivo index.java utiliza a classe de usuário e o método fazer login para exemplificar a ideia
+# Tendo em vista tudo isso, o código no arquivo Main.java utiliza a classe de usuário e o método fazer login para exemplificar a ideia
