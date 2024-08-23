@@ -14,7 +14,7 @@
 **•	Conteúdo:**<br>
 <p>Com atributos sendo: *ID do conteúdo, Título, Genero, Ano de Lançamento, Classificação indicativa, Duração;*</p>
 <p>E métodos possíveis: *Buscar, Filtrar, Detalhes.*</p>
-<hr>
+<br>
 
 **•	Filme (herda de conteúdo):**<br>
 <p>Com atributos sendo: *Diretor, Elenco, Sinopse;*</p>
